@@ -242,7 +242,7 @@ function esVocal(letra){
 
 }
 
-//ya he terminado la tarea
+//tarea terminada al fin
 
 
 
